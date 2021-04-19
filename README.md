@@ -1,6 +1,6 @@
 
 ### Hello World ✨
-🔭 I’m currently working on B2B SaaS Startup!
+🔭 I’m currently working on Startup!
 <!--
 **dumoknam/dumoknam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
